@@ -1,0 +1,6 @@
+Coordinate vertici immagini
+Immagine PC  --> (40,472)  (40,795)
+                 (255, 472) (255, 795)
+
+Immagine utente  --> (455,472)  (455,800)
+                     (672,472)  (672,800)
